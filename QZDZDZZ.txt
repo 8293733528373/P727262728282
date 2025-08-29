@@ -50,7 +50,7 @@ end
 
 print("Usuario autorizado:", LocalPlayer.Name)
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/1882827/UU73826373II/refs/heads/main/BL818297TC", true))()
+
 
 local window = library:AddWindow("Sad v1.1 | Private", {
     main_color = Color3.fromRGB(207, 13, 13),
